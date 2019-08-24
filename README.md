@@ -24,7 +24,7 @@ A sample Unity project is included to demonstrate the usage of the plugin.
 If you just want to test out the plugin without rebuild it using Unity, a test build is also included
 
 Screenshot
-![Alt text](/Build/player.jpg?raw=true "Player")
+![Alt text](/Build/player.JPG?raw=true "Player")
 
 * Open your prefered track using the "Open Audio File" button
 * Load sofa files using the "..." button
